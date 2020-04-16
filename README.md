@@ -10,6 +10,7 @@ An API to connect NodeJS with MongoDB using mongodb atlas
 <br>
 2. You will require Postman for the API Testing
 
-#final steps
+# final steps
+<br>
 > npm install<br>
 > npm start
